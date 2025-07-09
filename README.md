@@ -3,6 +3,7 @@ Hi 👋 My name is Andrii Dumitrashchuk
 
 Backend Developer
 -----------------
+![Profile views](https://shields.io/endpoint?url=https://api.countapi.xyz/hit/AndriiDumi/profile-visits)
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
