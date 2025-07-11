@@ -31,10 +31,5 @@ Backend Developer
 
 </p>
 
-<p align="center">
-  <a href="http://www.github.com/AndriiDumi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiDumi&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" />
-  </a>
-</p>
 
 
