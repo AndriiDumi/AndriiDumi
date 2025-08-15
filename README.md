@@ -3,7 +3,6 @@ Hi 👋 My name is Andrii Dumitrashchuk
 
 Backend Developer
 -----------------
-![Profile views](https://komarev.com/ghpvc/?username=AndriiDumi&color=blue)
 
 
 * 🤝  I'm open to collaborating on Interesting projects
